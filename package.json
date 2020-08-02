@@ -1,0 +1,17 @@
+{
+    "name": "twt-bot",
+    "version": "1.0.0",
+    "description": "Creating a Twitter Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Malavika S Menon",
+    "license": "ISC",
+    "dependencies": {
+        "prompt": "^1.0.0",
+        "prompt-sync": "^4.2.0",
+        "twit": "^2.2.11"
+    }
+}
